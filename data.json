@@ -1,24 +1,13 @@
 {
     "user_experience": {
-        "elea_mar": {
-            "nivel": 1,
-            "experiencia_acumulada": 1445,
-            "experiencia_restante": 8555,
-            "recompensas_canjeadas": [
-                1
-            ]
-        },
         "saimusgaming": {
             "nivel": 1,
-            "experiencia_acumulada": 1275,
-            "experiencia_restante": 8725,
-            "recompensas_canjeadas": [
-                1
-            ]
+            "experiencia_acumulada": 0,
+            "experiencia_restante": 10000,
+            "recompensas_canjeadas": []
         }
     },
     "inscritos_pase_de_batalla": {
-        "elea_mar": true,
         "saimusgaming": true
     }
 }
